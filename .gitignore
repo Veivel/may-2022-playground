@@ -1,0 +1,8 @@
+*.zip
+*.csv
+*.xlsx
+!timeless_pred.csv
+!pred.csv
+!prediction.csv
+!predictions.csv
+!submission.csv
